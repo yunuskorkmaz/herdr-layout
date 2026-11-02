@@ -1,4 +1,4 @@
-# herdr-setup
+# herdr-layout
 
 Herdr masaüstü uygulamasının kişisel ayarları: `main-issues` layout'u, kısayollar
 ve sonradan eklenen mod'lar. Herdr'ın kendi mod'ları burada yok; uygulama onları
@@ -19,8 +19,8 @@ kendisi kurar.
 1. Herdr'ı kur, bir kez açıp kapat (`~/.config/herdr-app` oluşsun).
 2. Herdr açıkken:
    ```sh
-   git clone https://github.com/yunuskorkmaz/herdr-setup ~/projects/herdr-setup
-   ~/projects/herdr-setup/install.sh
+   git clone https://github.com/yunuskorkmaz/herdr-layout ~/projects/herdr-layout
+   ~/projects/herdr-layout/install.sh
    ```
    Script dosyaları kopyalar, üzerine yazdıklarının yedeğini
    `~/.config/herdr-app.backup-<tarih>` altına alır, her mod'u `herdr-app check`
